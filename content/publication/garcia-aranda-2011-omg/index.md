@@ -1,0 +1,12 @@
+---
+title: "An extensible DDS-based monitoring and intrusion detection system"
+date: 2011-03-01
+publishDate: 2020-06-11T11:26:55.383125Z
+authors: ["F. García-Aranda", "J. Sánchez-Monedero", "J. M. López-Soler"]
+publication_types: ["0"]
+abstract: "As centralized computing models are being superseded by more distributed computer environments, supervising application, system and network health has become a crucial task in network management. Currently, there are plenty of systems providing a partial solution to this problem (e.g. intrusion detection systems (IDS) and system monitoring tools), but each separately cannot provide the complete view required to understand and react quickly. In this context we propose Cave Canem, a framework for the development of a \"complete\" operational picture for the combination of multiple kinds of information (e.g. performance, system alerts, intrusion detection), remaining open so that new sensors and applications can be mixed in. This open approach, separates the Information Model from the Information Distribution mechanisms, using the OMG Data Distribution Service (DDS) standard as the fundamental information-sharing model. Our framework exploits the benefits of the data-centric publish-subscribe (DCPS) paradigm provided by the DDS middleware, which eases the deployment and maintainability of large monitoring scenarios. It also takes advantage of some of the DDS features, such as content filtering and QoS settings (reliability, transport priorities, etc.) which ensure that the entire system status can be efficiently distributed according to the subscriber interests. In the presentation we will purpose a motivating example for highlighting our design goals, describe the architecture and the implementation details of our solution, and demonstrate a validated prototype."
+featured: false
+publication: "*Workshop on Real-time, Embedded and Enterprise-Scale Time-Critical Systems*"
+url_pdf: "http://www.omg.org/news/meetings/realtime2011/program.htm"
+---
+
