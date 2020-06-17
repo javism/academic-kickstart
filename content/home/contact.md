@@ -9,12 +9,13 @@ title = "Contact"
 subtitle = ""
 
 # Automatically link email and phone?
-autolink = true
+autolink = false
 
 # Email form provider
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 0
 +++
 
+GPG [FC4149E3](http://keyserver.ubuntu.com:11371/pks/lookup?search=0xEB534DD766B6E6DC2C555E09F47FF9DEFC4149E3&op=index)

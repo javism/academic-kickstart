@@ -7,6 +7,7 @@ publication_types: ["7"]
 abstract: ""
 featured: false
 publication: ""
-url_pdf: "https://digibug.ugr.es/handle/10481/30859"
+url_slides: "files/2013-ThesisDefenceJSM.pdf"
+isbn:  9788490288009
 ---
 
