@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Data Justice in the Workplace"
-event: "Seminar at Oxford University"
+event: "Surveillance capitalism, governance and social justice: moving beyond data centrism"
 event_url:
-location:
+location: "Oxford Internet Institute. University of Oxford, UK"
 address:
   street:
   city:

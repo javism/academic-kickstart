@@ -4,7 +4,7 @@
 title: "An introduction to machine learning and computational intelligence for time-series analysis: A case study for detection of climate tipping points"
 event: "Seminar at the Department of Meteorology. University of Reading, UK"
 event_url:
-location: "University of Reading"
+location: "Department of Meteorology. University of Reading, UK"
 address:
   street:
   city: "Reading"

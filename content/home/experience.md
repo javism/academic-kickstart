@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 #  description = """Taught computer engineering."""
 
 [[experience]]
-  title = "Visiting Researcher"
+  title = "Visiting Researcher (2011, 2016, 2017)"
   company = "University of Birmingham (2011, 2016); University of Reading (2017)"
   company_url = ""
   location = "England, UK"

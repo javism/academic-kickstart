@@ -1,11 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "El proceso de ciencia de datos y
-problemas de clasificación"
+title: "El proceso de ciencia de datos y problemas de clasificación"
 event: "Programa de doctorado en ciencia de datos"
 event_url:
-location: "Universidad Loyola Andalucía"
+location: "Universidad Loyola Andalucía. Córdoba, Spain."
 address:
   street:
   city:

@@ -4,7 +4,7 @@
 title: "¿Cómo auditar (parcialmente) los sistemas sociotécnicos?"
 event: "Datos, ética y bien común. Medialab Prado. Madrid, Spain." 
 event_url:
-location:
+location: "Datos, ética y bien común. Medialab Prado. Madrid, Spain."
 address:
   street:
   city:

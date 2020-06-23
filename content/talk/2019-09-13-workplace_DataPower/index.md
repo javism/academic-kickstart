@@ -4,7 +4,7 @@
 title: "Data-driven hiring, labour relations and social justice"
 event: "Data Power 2019. Bremen, Germany."
 event_url:
-location:
+location: "Data Power 2019. Bremen, Germany."
 address:
   street:
   city:
